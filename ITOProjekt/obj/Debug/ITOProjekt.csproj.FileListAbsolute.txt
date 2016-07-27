@@ -1,0 +1,10 @@
+c:\users\artur\documents\visual studio 2013\Projects\ITOProjekt\ITOProjekt\bin\Debug\ITOProjekt.exe
+c:\users\artur\documents\visual studio 2013\Projects\ITOProjekt\ITOProjekt\bin\Debug\ITOProjekt.pdb
+c:\users\artur\documents\visual studio 2013\Projects\ITOProjekt\ITOProjekt\obj\Debug\ITOProjekt.csprojResolveAssemblyReference.cache
+c:\users\artur\documents\visual studio 2013\Projects\ITOProjekt\ITOProjekt\obj\Debug\ITOProjekt.Form1.resources
+c:\users\artur\documents\visual studio 2013\Projects\ITOProjekt\ITOProjekt\obj\Debug\ITOProjekt.Properties.Resources.resources
+c:\users\artur\documents\visual studio 2013\Projects\ITOProjekt\ITOProjekt\obj\Debug\ITOProjekt.csproj.GenerateResource.Cache
+c:\users\artur\documents\visual studio 2013\Projects\ITOProjekt\ITOProjekt\obj\Debug\ITOProjekt.exe
+c:\users\artur\documents\visual studio 2013\Projects\ITOProjekt\ITOProjekt\obj\Debug\ITOProjekt.pdb
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\ITOProjekt\ITOProjekt\bin\Debug\aima.dll
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\ITOProjekt\ITOProjekt\bin\Debug\aima.pdb

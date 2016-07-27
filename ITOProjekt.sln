@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITOProjekt", "ITOProjekt\ITOProjekt.csproj", "{0A01EF75-2AF4-4FD7-BED8-A8AB80FBC414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aima", "..\..\..\..\Downloads\Kp575LsN\aima.csproj", "{AC141957-C37A-4D40-8107-8CF59C1A2982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A01EF75-2AF4-4FD7-BED8-A8AB80FBC414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A01EF75-2AF4-4FD7-BED8-A8AB80FBC414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A01EF75-2AF4-4FD7-BED8-A8AB80FBC414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A01EF75-2AF4-4FD7-BED8-A8AB80FBC414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC141957-C37A-4D40-8107-8CF59C1A2982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC141957-C37A-4D40-8107-8CF59C1A2982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC141957-C37A-4D40-8107-8CF59C1A2982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC141957-C37A-4D40-8107-8CF59C1A2982}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
